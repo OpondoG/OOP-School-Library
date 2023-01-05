@@ -1,5 +1,5 @@
 # OOP-School-Library
-OOP-School-Library is a project that builds with Ruby and in this project, you will be able that add new students & teachers and books can see the list of them and also will be able to save records of who borrowed a given book and when and all of this built in a beautiful and well-organized way!
+This is ruby project that will keep track of students and teachers and who borrows any book.
 
 # Built With
 
