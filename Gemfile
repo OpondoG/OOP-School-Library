@@ -1,9 +1,9 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "rake"
-gem "rspec"
+gem 'rake'
+gem 'rspec'
 
 group :development, :test do
-  gem "rubocop"
-  gem "pry"
+  gem 'pry'
+  gem 'rubocop'
 end
