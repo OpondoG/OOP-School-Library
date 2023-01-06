@@ -7,6 +7,6 @@ class CalitalizeDecorator < BaseDecorator
   end
 
   def correct_name
-    super.capitalize
+    @nameable.correct_name.capitalize
   end
 end
