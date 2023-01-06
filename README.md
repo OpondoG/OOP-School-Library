@@ -1,7 +1,4 @@
 
-
-  <h3><b>Microverse README Template</b></h3>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -28,10 +25,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [OOP-School-Library] <a name="about-project"></a>
+# 📖 [OOP_SCHOOL_LIBRARY] <a name="about-project"></a>
 
-> This is ruby project that will keep track of students and teachers and who borrows any book .
+> Describe your project in 1 or 2 sentences.
 
+**[OOPSchoolLibrary]** is a ruby project that will keep track of students and teachers and who borrows any book.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,17 +40,23 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
-    <li><a href="https://rubygems.org/">Ruby gem</a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
 </details>
 
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
@@ -80,7 +84,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> To get a local copy up and running, follow these steps.
+> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -160,14 +164,16 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHOR -->
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author**
+> Mention all of the collaborators of this project.
 
-- GitHub: [GilbertOkonjo](https://github.com/OpondoG)
-- LinkedIn: [GilbertOkonjo](https://www.linkedin.com/in/gilbert-okonjo/)
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/OpondoG)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gilbert-okonjo/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -198,8 +204,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> If you like this project give me a ⭐️
+> Write a message to encourage readers to support your project
 
+If you like this project give me a hat tip ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,25 +214,13 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank Microverse community for this opportunity.
+> Give credit to everyone who inspired your codebase.
 
-I would like to thank Microverse for this opportunity.
+I would like to thank the Microverse community for this opportunity
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -238,4 +233,3 @@ This project is [MIT](./LICENSE) licensed.
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-HyperWrite Logo
