@@ -1,5 +1,6 @@
 <a name="readme-top"></a>
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99230309/211001724-8b57e176-86a5-46de-995e-71c5fbfef1d7.png" alt="logo" width="140"  height="auto" />
 
   <h3><b>Microverse README Template</b></h3>
 
