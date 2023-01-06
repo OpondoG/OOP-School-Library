@@ -32,11 +32,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [SchoolLibrary] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[SchoolLibrary]** is a ruby project that will keep track of students and teachers and who borrows any book.
 
 ## 🛠 Built With <a name="built-with"></a>
 
